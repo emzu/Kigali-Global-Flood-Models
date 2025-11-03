@@ -6,5 +6,5 @@ Reliable flood models are critical for early warning systems. This work supports
 3) Google Flood Hub: Real Time and Historical Datasets
 4) GEOGloWS Flood Forecasts
 
-Kigali Gauges:
+Kigali Gauges:  
 <img width="790" height="766" alt="image" src="https://github.com/user-attachments/assets/f5a83edd-8aed-4814-8b7f-8d0f76b932eb" />
