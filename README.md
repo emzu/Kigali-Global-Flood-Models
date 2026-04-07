@@ -57,3 +57,4 @@ Compares GEOGloWS and Google Flood Hub streamflow predictions against observed d
 ## Acknowledgments
 This work was produced as part of the Kigali Flood Modeling Working Group and comprised of researchers from Rwanda Young Water Professionals and Carnegie Mellon University - Africa. Collaborators include Francois Tetero (RYWP/GWP), Moise Busogi (CMU-Africa), Emily Zuetell (CMU), Alice Umutoni (RYWP), Gustave Bwirayesu (CMU), Hussein Bizimana (UoR). Alice Umutoni led the HEC-HMS/HEC-RAS Flood Model Development.
 
+[![DOI](https://zenodo.org/badge/1086020014.svg)](https://doi.org/10.5281/zenodo.19463101)
